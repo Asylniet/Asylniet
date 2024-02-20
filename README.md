@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced frontend developer with a passion for creating user-friendly and visually appealing websites.
+Experienced fullstack developer with a passion for creating user-friendly and visually appealing websites. Have a great expertise in Frontend development with such technologies like Javascript, Typescript, React.js and Next.js. Also have experience in developing complex backend systems in REST API using Golang(Gin-gonic), Python(Django) and C#(.NET).
 
 
 ## 🌐 Socials:
